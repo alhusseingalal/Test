@@ -11,7 +11,7 @@
     transition:opacity .5;
 }
 .hover-opacity:hover{
-    opacity: .7;
+    opacity: .6;
 }
 .ltr{
     position: relative;
